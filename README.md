@@ -34,6 +34,23 @@ Follow these steps to set up and run the project on your local machine.
 Prerequisites
 Python 3.8+ installed on your system.
 
+Cloning the Repository (If you're getting the project from GitHub)
+If you're setting up this project on a new machine or from GitHub, follow these steps first:
+
+Open Terminal/Command Prompt: Open your preferred terminal or command prompt.
+
+Navigate to Desired Directory: Change to the directory where you want to save the project (e.g., cd Documents/GitHub_Projects).
+
+Clone the Repository: Replace your-username with your actual GitHub username.
+
+git clone https://github.com/your-username/ecommerce-churn-dashboard.git
+
+Navigate into Project Folder:
+
+cd ecommerce_churn_dashboard
+
+Continue with Installation Steps: Proceed to "Installation Steps" below, starting from step 3 (Open the Project in VS Code).
+
 Installation Steps
 Create a Project Folder:
 First, create a new folder on your computer where you'll store all the project files. You can name it something like ecommerce_churn_dashboard.
